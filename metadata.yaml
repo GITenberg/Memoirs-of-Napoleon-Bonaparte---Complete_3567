@@ -1,0 +1,49 @@
+_repo: Memoirs-of-Napoleon-Bonaparte---Complete_3567
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 3567/3567-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Bourrienne, Louis Antoine Fauvelet de
+    aliases:
+    - De Bourrienne, Louis Antoine Fauvelet
+    - Fauvelet de Bourrienne, Louis Antoine
+    birthdate: 1769
+    deathdate: 1834
+    gutenberg_agent_id: '1227'
+    url: http://www.gutenberg.org/2009/agents/1227
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Antoine_Fauvelet_de_Bourrienne
+  editor:
+    agent_name: Phipps, Ramsay Weston
+    alias: Phipps, R. W. (Ramsay Weston)
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '41682'
+    url: http://www.gutenberg.org/2009/agents/41682
+description: V. 3. Dramatic incidents in the life of Napoleon Bonaparte. The battle
+  of Waterloo ; A vivid description of Napoleon's parting with Josephine ... / by
+  Edward Creasy.
+gutenberg_bookshelf:
+- France
+- Napoleonic(Bookshelf)
+gutenberg_issued: '2004-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bourrienne, Louis Antoine Fauvelet de, 1769-1834'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- !lcc 'DC'
+- !lcsh 'Private secretaries -- France -- Biography'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Relations with private secretaries'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
+- GITenberg
+title: Memoirs of Napoleon Bonaparte — Complete
+url: http://www.gutenberg.org/ebooks/3567

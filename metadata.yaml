@@ -1,10 +1,8 @@
 _repo: Memoirs-of-Napoleon-Bonaparte---Complete_3567
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 3567/3567-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 3567-h/images/cover.jpg
 creator:
   author:
     agent_name: Bourrienne, Louis Antoine Fauvelet de
@@ -26,6 +24,8 @@ creator:
 description: V. 3. Dramatic incidents in the life of Napoleon Bonaparte. The battle
   of Waterloo ; A vivid description of Napoleon's parting with Josephine ... / by
   Edward Creasy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3567#Memoirs-of-Napoleon-Bonaparte---Complete
 gutenberg_bookshelf:
 - France
 - Napoleonic(Bookshelf)
